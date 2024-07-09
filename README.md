@@ -23,7 +23,15 @@ Click "Find Path" to see the pathfinding algorithm navigate through the obstacle
 <p>
   
 </p>
+
 About AlgoView was developed by Mohd Arish Siddqui with the goal of making algorithm learning more accessible and engaging. By providing interactive visualizations, AlgoView helps users gain a deeper understanding of algorithmic concepts and their practical applications.</h3>
+
+<p>
+  
+</p>
+
+<h3 align="left" font-weight="bold"> Check out the project here: </h3>
+<a href="https://mohd-arish.github.io/Algoview--Algorithm-Visualizer/">https://mohd-arish.github.io/Algoview--Algorithm-Visualizer</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
